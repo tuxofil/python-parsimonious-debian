@@ -1,0 +1,5 @@
+python-parsimonious (0.6.2-1) unstable; urgency=low
+
+  * Initial release for Debian.
+
+ -- Aleksey Morarash <aleksey.morarash@envisionx.co>  Tue, 24 Nov 2015 14:02:00 +0200
